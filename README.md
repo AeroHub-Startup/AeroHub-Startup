@@ -82,7 +82,7 @@ buscamos reduzir barreiras que afetam profissionais de diferentes origens, garan
   ---
   
 ## 👥 Equipe AeroHub
-- [Sofia B. Torquato](www.linkedin.com/in/sofia-b-torquato) - **Product Owner / Front-End**  
+- [Sofia B. Torquato](www.linkedin.com/in/sofia-b-torquato/) - **Product Owner / Front-End**  
 - [Paulo R. Oliveira](https://www.linkedin.com/in/pauloricardoab/) - **Scrum Master / Full-Stack**
 - [Rafael Santos](https://www.linkedin.com/in/rafael-santos-45b365235/) - **Full-Stack**
 - [Maria Fernanda F. de Lima](https://www.linkedin.com/in/maria-fernanda-falcao/)  - **Front-End / Financeiro** 
