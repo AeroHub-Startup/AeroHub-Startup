@@ -11,10 +11,33 @@ Nosso objetivo é simplificar o processo de contratação, garantindo segurança
 ---
 
 
-## 💡 Problema identificado
+## 💡 Problemas identificados
 - Empresas têm dificuldade em encontrar pilotos de drones certificados e confiáveis.  [A escassez de mão de obra no setor de drones](https://clickpetroleoegas.com.br/escassez-de-mao-de-obra-chega-ao-mundo-dos-drones-profissao-que-rende-ate-12-mil-por-mes-esta-com-dificuldade-em-encontrar-profissionais/)
 - Pilotos possuem pouca visibilidade e oportunidades de trabalho. ["...Alguns pilotos iniciam suas carreiras concluindo projetos como um trabalho paralelo. "](https://www.indeed.com/career-advice/finding-a-job/becoming-a-drone-pilot)
 - Não existe uma plataforma centralizada que conecte diretamente as duas partes com segurança.
+
+---
+
+## 🚀 Como nossa plataforma resolve
+- **Conexão inteligente:** empresas encontram pilotos certificados pela **ANAC** com poucos cliques, em uma base confiável e validada.  
+- **Visibilidade para pilotos:** perfis detalhados, avaliação por clientes e ranking de desempenho aumentam as oportunidades de trabalho.  
+- **Segurança e conformidade:** contratos digitais em duas vias (jurídico + linguagem simples), tudo validado por advogado.  
+- **Centralização:** um único espaço para buscar, contratar, gerenciar e acompanhar missões aéreas de forma simples e segura.  
+- **Eficiência:** processos ágeis que reduzem tempo e custos para ambas as partes.
+
+---
+
+## 📌 Missão
+Conectar empresas e clientes a pilotos de drones certificados pela **ANAC**, oferecendo uma plataforma tecnológica segura e eficiente que simplifica a contratação, garante conformidade e entrega excelência em cada operação aérea.  
+
+## 🌍 Visão
+Ser a plataforma de referência em serviços aéreos com drones, reconhecida pela inovação, pela rede de pilotos qualificados e pela forma como transforma o acesso a soluções aéreas especializadas para empresas e pessoas.  
+
+## 💡 Valores
+- **Inovação:** tecnologia que transforma.  
+- **Segurança:** conformidade total com ANAC e padrões globais.  
+- **Eficiência:** agilidade e redução de custos.  
+- **Qualidade:** excelência em cada operação.  
 
 ---
 
