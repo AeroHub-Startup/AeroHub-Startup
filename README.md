@@ -7,7 +7,7 @@
 
 ## <p align="center" > Tecnologia que Voa com Você </p>
 
- **<p align="center" > **AeroHub** é uma plataforma que conecta **pilotos de drones certificados** a **empresas que precisam de serviços com drones**. 
+ <p align="center" > **AeroHub** é uma plataforma que conecta **pilotos de drones certificados** a **empresas que precisam de serviços com drones**. 
 Nosso objetivo é simplificar o processo de contratação, garantindo segurança, qualidade e agilidade para ambos os lados.</p>
 
 ---
