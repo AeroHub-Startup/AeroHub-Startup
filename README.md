@@ -1,11 +1,12 @@
 <p align="center">
 
-<img width="300" height="300" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/12629c2c-946e-493d-8cde-b5a26f4cc4fe" />
+ <img width="1800" height="500" alt="Loggo2AerohubFdBranco" src="https://github.com/user-attachments/assets/3c28f0b7-ceac-4849-b80c-9d008edf7583" />
+
 </p>
 
 ## <p align="center" > Tecnologia que Voa com Você </p>
 
-**AeroHub** é uma plataforma que conecta **pilotos de drones certificados** a **empresas que precisam de serviços com drones**.  
+**AeroHub** é uma plataforma que conecta **pilotos de drones certificados** a **empresas que precisam de serviços com drones**. 
 Nosso objetivo é simplificar o processo de contratação, garantindo segurança, qualidade e agilidade para ambos os lados.
 
 ---
