@@ -83,7 +83,7 @@ buscamos reduzir barreiras que afetam profissionais de diferentes origens, garan
 - Sofia B. Torquato - **Product Owner / Front-End**  
 - Paulo R. Oliveira - **Scrum Master / Full-Stack**
 - Rafael Santos - ***Full-Stack**
-- Fernanda F. de Lima  - **Front-End / Financeiro** 
+- Maria Fernanda F. de Lima  - **Front-End / Financeiro** 
 - Cristian Harold - **Back-End**  
 - Einer Sulivan - **Banco de Dados / Back-End**
 - Caroline Mota - **UX/UI Design / Marketing**
