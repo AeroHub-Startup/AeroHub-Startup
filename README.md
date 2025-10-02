@@ -1,8 +1,9 @@
 <p align="center">
 
- <img width="1800" height="500" alt="Loggo2AerohubFdBranco" src="https://github.com/user-attachments/assets/3c28f0b7-ceac-4849-b80c-9d008edf7583" />
+<img width="1800" height="500" alt="Loggo2Aerohub" src="https://github.com/user-attachments/assets/b57dd28a-d16f-4e1b-9369-1cc677d1e091" />
 
 </p>
+
 
 ## <p align="center" > Tecnologia que Voa com Você </p>
 
